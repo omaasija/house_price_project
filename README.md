@@ -13,7 +13,6 @@ This repository contains a machine learning project that predicts house prices b
 | 🔗 Feature Relationships     | Bedrooms vs price, waterfront vs price, and correlation analysis            |
 | 🤖 Multiple Algorithms       | Linear Regression + Gradient Boosting for performance comparison             |
 | 📈 Model Comparison          | Comprehensive scoring and evaluation of different approaches                 |
-| 🔬 Advanced Techniques       | PCA for dimensionality reduction and feature optimization                    |
 
 ---
 
@@ -57,10 +56,6 @@ This repository contains a machine learning project that predicts house prices b
   - `learning_rate`: 0.1  
   - `loss`: 'ls' (least squares)  
 - **Purpose**: To improve prediction accuracy using boosting  
-
-### 🔬 Principal Component Analysis (PCA)
-- **Purpose**: Dimensionality reduction  
-- **Application**: Feature extraction and noise reduction  
 
 ---
 
